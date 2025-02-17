@@ -35,7 +35,8 @@ Q6. Profit from the sale of sub categories like saree, bookcases etc.
 - UPI 21%  
 - Debit Card 13%  
 - Credit Card 12%  
-- EMI 10%  
+- EMI 10%
+
 **Q5. Profit Generated Monthly** 
 - Peaks in November and December  
 - Significant profit drop in April and May  
